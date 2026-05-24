@@ -1,0 +1,14 @@
+Ubuntu / Debian / Linux Mint / Kali Linux
+sudo apt update
+sudo apt install nmap
+------------------------------------------
+Fedora / RHEL / CentOS
+sudo dnf install nmap
+------------------------------------------
+Arch Linux / Manjaro
+sudo pacman -S nmap
+------------------------------------------
+how to use example
+sudo nmap 192.168.1.1
+
+
